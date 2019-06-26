@@ -42,15 +42,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-  - book_images/tab/ #tab/book-normal.png
-  # - book_images/tab/book-selected.png
-  # - book_images/tab/fenlei-selected.png
-  # - book_images/tab/fenlei-normal.png
-  # - book_images/tab/home-selected.png
-  # - book_images/tab/home-normal.png
-  # - book_images/tab/profile-selected.png
-  # - book_images/tab/profile-normal.png
-  #  - images/a_dot_ham.jpeg
+  - book_images/tab/
+  - book_images/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
